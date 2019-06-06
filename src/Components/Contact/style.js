@@ -1,0 +1,1 @@
+export const style = {fontSize:"20px",border:"40% 50%  solid",color:"white", textShadow: "2px 2px 4px #000000", fontWeight:"normal"}
